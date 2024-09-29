@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.formMain{
+    background: linear-gradient(to right, purple, blue, rgb(48, 113, 134));
+    height: 100vh;
+}
